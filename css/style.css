@@ -1,0 +1,20 @@
+.table{
+  width: 96%;
+  margin-left: 2%;
+  Margin-right: 2%;
+}
+
+.tab{
+  background-color: #B4C6E7;
+  vertical-align: middle;
+}
+
+.info{
+  padding-left:1%;
+  width: 45%;
+}
+
+.tInfo{
+  border-spacing: 0rem 2rem;
+
+}
